@@ -1,0 +1,276 @@
+{
+  "profile": {
+    "nama": "Rumah sakit smkdev",
+    "alamat": "Jln.Margacinta No.29",
+    "img": "https://images.unsplash.com/photo-1495202337139-e865ed70fcd4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80",
+    "email": "info@smk.dev",
+    "telp": "+6270000000",
+    "faq": "+6270000000",
+    "tentang": "SMK.DEV adalah komunitas developer siswa SMK jurusan Rekayasa Perangkat Lunak (RPL), Teknik Komputer dan Jaringan (TKJ) dan Multimedia (MM) dari seluruh Indonesia. Mereka adalah talenta yang bersemangat dan luar biasa berbakat serta kompetitif. Mereka bergabung untuk meningkatkan skill coding, menunjukkan keahlian mereka dan siap merealisasikan kebutuhan aplikasi untuk bisnis Anda. Didukung komunitas developer siswa SMK dari seluruh Indonesia, Kami siap untuk mewujudkan kebutuhan digital di perusahaan Anda.",
+    "cabang": [
+      {
+        "nama": "Rumah sakit smkdev",
+        "alamat": "Jl.Margacinta No.29",
+        "jamOperasional": [
+          {
+            "hari": "Senin - jumat",
+            "waktu": "08:00 - 20:00"
+          },
+          {
+            "hari": "Sabtu",
+            "waktu": "08:00 - 17:00"
+          }
+        ]
+      },
+      {
+        "nama": "Klinik SMKDEV",
+        "alamat": "Jl.Mars Barat | No.29",
+        "jamOperasional": [
+          {
+            "hari": "Senin - jumat",
+            "waktu": "08:00 - 20:00"
+          },
+          {
+            "hari": "Sabtu",
+            "waktu": "08:00 - 13:00"
+          }
+        ]
+      },
+      {
+        "nama": "BPJS",
+        "jamOperasional": [
+          {
+            "hari": "Senin - jumat",
+            "waktu": "08:00 - 20:00, 16:00 - 19:00"
+          },
+          {
+            "hari": "Sabtu",
+            "waktu": "07:00 - 12:00"
+          }
+        ]
+      }
+    ]
+  },
+  "doctor": [
+    {
+      "id": 83,
+      "name": "Katherine Jessie Wolfe",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "senin - rabu",
+        "jam": "08:00 - 12:00"
+      },
+      "spesialis": "Dokter penyakit dalam"
+    },
+    {
+      "id": 31,
+      "name": "Joshua Alfred Maldonado",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "senin - jumat",
+        "jam": "08:00 - 18:00"
+      },
+      "spesialis": "Dokter ibu dan anak"
+    },
+    {
+      "id": 7,
+      "name": "Elijah Jeffrey Carr",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "senin - selasa",
+        "jam": "12:00 - 15:00"
+      },
+      "spesialis": "Dokter radiologi"
+    },
+    {
+      "id": 94,
+      "name": "Billy Jared Lawrence",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "rabu - sabtu",
+        "jam": "10:00 - 16:00"
+      },
+      "spesialis": "Dokter saraf"
+    },
+    {
+      "id": 96,
+      "name": "Willie Harriett Colon",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "kamis",
+        "jam": "11:00 - 14:00"
+      },
+      "spesialis": "Dokter radiologi"
+    },
+    {
+      "id": 58,
+      "name": "Martha Ella Reed",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "senin - selasa",
+        "jam": "12:00 - 15:00"
+      },
+      "spesialis": "Dokter ibu dan anak"
+    },
+    {
+      "id": 24,
+      "name": "Herbert Mason Thomas",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "selasa - jumat",
+        "jam": "12:30 - 17:00"
+      },
+      "spesialis": "Dokter penyakit dalam"
+    },
+    {
+      "id": 49,
+      "name": "Lulu Jessie Walker",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "rabu - sabtu",
+        "jam": "10:00 - 16:00"
+      },
+      "spesialis": "Dokter radiologi"
+    },
+    {
+      "id": 88,
+      "name": "Chase Allen Rice",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "rabu - sabtu",
+        "jam": "10:00 - 16:00"
+      },
+      "spesialis": "Dokter penyakit dalam"
+    },
+    {
+      "id": 4,
+      "name": "Eugenia Bessie Dunn",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "senin - jumat",
+        "jam": "08:00 - 18:00"
+      },
+      "spesialis": "Psikiater"
+    },
+    {
+      "id": 82,
+      "name": "Bertha Lura Hale",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "senin - selasa",
+        "jam": "12:00 - 15:00"
+      },
+      "spesialis": "Dokter saraf"
+    },
+    {
+      "id": 77,
+      "name": "Lucille Nannie Stone",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "senin - rabu",
+        "jam": "08:00 - 12:00"
+      },
+      "spesialis": "Dokter saraf"
+    },
+    {
+      "id": 82,
+      "name": "Tyler Douglas Wood",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "kamis",
+        "jam": "11:00 - 14:00"
+      },
+      "spesialis": "Dokter penyakit dalam"
+    },
+    {
+      "id": 57,
+      "name": "Winnie Ruby Moss",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "rabu - sabtu",
+        "jam": "10:00 - 16:00"
+      },
+      "spesialis": "Dokter radiologi"
+    },
+    {
+      "id": 51,
+      "name": "Katharine Ella Hampton",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "rabu - sabtu",
+        "jam": "10:00 - 16:00"
+      },
+      "spesialis": "Psikiater"
+    },
+    {
+      "id": 66,
+      "name": "Bernice Lela Oliver",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "rabu - sabtu",
+        "jam": "10:00 - 16:00"
+      },
+      "spesialis": "Dokter radiologi"
+    },
+    {
+      "id": 45,
+      "name": "Brett Leroy Robertson",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607414.svg",
+      "gender": "Male",
+      "jadwal": {
+        "hari": "rabu - sabtu",
+        "jam": "10:00 - 16:00"
+      },
+      "spesialis": "Dokter gigi"
+    },
+    {
+      "id": 28,
+      "name": "Jeremiah Jose Jefferson",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "senin - jumat",
+        "jam": "08:00 - 18:00"
+      },
+      "spesialis": "Dokter ibu dan anak"
+    },
+    {
+      "id": 86,
+      "name": "Etta Betty Reyes",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "selasa - jumat",
+        "jam": "12:30 - 17:00"
+      },
+      "spesialis": "Dokter penyakit dalam"
+    },
+    {
+      "id": 85,
+      "name": "Bertha Lydia Caldwell",
+      "avatar": "https://www.flaticon.com/svg/static/icons/svg/607/607355.svg",
+      "gender": "Female",
+      "jadwal": {
+        "hari": "selasa - jumat",
+        "jam": "12:30 - 17:00"
+      },
+      "spesialis": "Dokter saraf"
+    }
+  ]
+}
