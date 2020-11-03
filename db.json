@@ -272,5 +272,9 @@
       },
       "spesialis": "Dokter saraf"
     }
-  ]
+  ],
+  "testing": {
+    "nama": "Rumah sakit smkdev",
+    "alamat": "Jln.Margacinta No.29"
+  }
 }
