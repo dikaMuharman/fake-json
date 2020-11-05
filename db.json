@@ -273,6 +273,53 @@
       "spesialis": "Dokter saraf"
     }
   ],
+  "fasility": [
+    {
+      "nama": "Rawat jalan",
+      "gambar": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "desc": "Pelayanan medis kepada seorang pasien untuk tujuan pengamatan, diagnosis, pengobatan, rehabilitasi, dan pelayanan kesehatan lainnya, tanpa mengharuskan pasien tersebut dirawat inap. Keuntungannya, pasien tidak perlu mengeluarkan biaya untuk menginap (opname).",
+      "date": "06 Aug 2020"
+    },
+    {
+      "nama": "UGD",
+      "gambar": "https://images.unsplash.com/photo-1551076805-e1869033e561?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=890&q=80",
+      "desc": "Salah satu unit dalam rumah sakit yang menyediakan penanganan awal pasien, sesuai dengan tingkat kegawatannya. Seorang petugas skrining akan memilah pasien dalam kelompok triase. Adapun kelompok triase tersebut terdiri dari; triase merah, triase kuning, triase hijau, dan triase hitam.",
+      "date": "06 Aug 2020"
+    },
+    {
+      "nama": "Rawat inap",
+      "gambar": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+      "desc": "istilah yang berarti proses perawatan pasien oleh tenaga kesehatan profesional akibat penyakit tertentu, di mana pasien diinapkan di suatu ruangan di rumah sakit ",
+      "date": "06 Aug 2020"
+    },
+    {
+      "nama": "ICU",
+      "gambar": "https://images.unsplash.com/photo-1601841162542-956af38ba052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "desc": "ruangan khusus yang disediakan rumah sakit untuk merawat pasien dengan keadaan yang membutuhkan pengawasan ketat. Untuk membantu memulihkan kondisi pasien, ruang ICU dilengkapi dengan peralatan medis khusus",
+      "date": "06 Aug 2020"
+    },
+    {
+      "nama": "Ruang operasi",
+      "gambar": "https://images.unsplash.com/photo-1579154491915-611e891d3a5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "desc": "salah satu fasilitas yang ada di rumah sakit dan termasuk sebagai fasilitas yang mempunyai banyak persyaratan. Fasilitas ini dipergunakan untuk pasien pasien yang membutuhkan tindakan operasi, terutama untuk tindakan operasi besar.",
+      "date": "06 Aug 2020"
+    },
+    {
+      "nama": "Parmasi",
+      "gambar": "https://images.unsplash.com/photo-1576602976047-174e57a47881?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80",
+      "desc": "suatu unit di rumah sakit yang merupakan fasilitas penyelenggaraan kefarmasian di bawah pimpinan seorang Apoteker dan memenuhi persyaratan secara hukum untuk mengadakan, menyediakan, dan mengelola seluruh aspek penyediaan perbekalan kesehatan di rumah sakit.",
+      "date": "06 Aug 2020"
+    },
+    {
+      "nama": "Ambulan",
+      "gambar": "https://images.unsplash.com/photo-1579037005241-a79202c7e9fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "desc": "kendaraan yang dilengkapi peralatan medis untuk mengangkut orang sakit atau korban kecelakaan.",
+      "date": "06 Aug 2020"
+    }
+  ],
+  "user": [],
+  "pasien": [],
+  "booking": [],
   "testing": {
     "nama": "Rumah sakit smkdev",
     "alamat": "Jln.Margacinta No.29"
